@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+#Kafka application
+certs/
+
 # Distribution / packaging
 .Python
 build/
@@ -126,6 +129,7 @@ celerybeat.pid
 .venv
 env/
 venv/
+environment/
 ENV/
 env.bak/
 venv.bak/
